@@ -2,5 +2,5 @@
 
 ### Thank you for visiting my Github profile!
 
-## This file tells about my breif introduction.
+## This file tells about my brief introduction.
 
