@@ -1,6 +1,6 @@
-#Hello, I am Sainath Talakanti
+# Hello, I am Sainath Talakanti
 
-###Thank you for visiting my Github profile!
+### Thank you for visiting my Github profile!
 
-##This file tells about my breif introduction.
+## This file tells about my breif introduction.
 
